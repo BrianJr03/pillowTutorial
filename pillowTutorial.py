@@ -34,4 +34,4 @@ def resizeImages():
 
 
 if __name__ == '__main__':
-    pass  # Call functions here
+    blur()  # Call functions here
